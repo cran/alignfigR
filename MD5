@@ -1,0 +1,17 @@
+e2879e2bc94f5703a3246591bfcc3229 *DESCRIPTION
+4c7058e4e1be354ce9c811855995c9c9 *NAMESPACE
+be57d6b4598421de43b1de6a30c2265a *NEWS.md
+7fbf5cdde4b57541ad414916ceb22899 *R/alignfigR.R
+6450b26bdb1bcfd16e8e20bc13438bdf *README.md
+5f104369447b38d89855338ac3adbe5b *build/vignette.rds
+1388f286f6b87908e1a99022538b719a *inst/doc/my-vignette.R
+b80da6522ca5f984c9063a88a0c8cc72 *inst/doc/my-vignette.Rmd
+b4aa2c9af9dba1becc09ee6969192683 *inst/doc/my-vignette.html
+0a8c9aec70a00dd38e3980a81e8a18a3 *inst/extdata/example.fasta
+904b3a901a401a0d2aadb582d935f2f7 *inst/extdata/example.png
+5a39ba6aae483b513d483b62bc0a466d *man/alignfigR.Rd
+b4353ff9798654e7e2f4b1da84f61d89 *man/define_palette.Rd
+d89a787c8404dd91d400e137b7874575 *man/extract_subalign.Rd
+c3d9084bbd769e04d6f11388c6656bc6 *man/plot_alignment.Rd
+b9e3b0830dde124801cdbfc1c9012535 *man/read_alignment.Rd
+b80da6522ca5f984c9063a88a0c8cc72 *vignettes/my-vignette.Rmd
